@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dices</string>
+    <string name="tv_play">Clique no botão abaixo para jogar o dado</string>
+    <string name="btt_play">JOGAR</string>
+    <string name="mi_settings">Configurações</string>
+    <string name="tv_select_amount_dices">Selecione o número de dados</string>
+    <string name="tv_select_faces_amount">Selecione o número de faces</string>
+    <string name="preference_file_key">PREFERENCE_FILE</string>
+    <string name="saved_dices_amount">PS_DICES_AMOUNT</string>
+    <string name="saved_faces_amount">PS_FACES_AMOUNT</string>
+</resources>
